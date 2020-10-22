@@ -1,6 +1,6 @@
 ### Hi there, folks! 👋
 
-I'm Alizain Saeed livin' in the old streets of Pakistan. I'm a coder you codes for fun.
+I'm Alizain Saeed livin' in the old streets of Pakistan. I'm a coder who codes for fun.
 
 - 🔭 I’m currently working on Creating more projects.
 - 🌱 I’m currently learning Python
