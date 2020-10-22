@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, folks! 👋
 
-<!--
-**otterparalsy1s/otterparalsy1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alizain Saeed livin' in the old streets of Pakistan. I'm a coder you codes for fun.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Creating more projects.
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Kaggle
+- ⚡ Fun fact: I just filled the blanks of the README.md!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Github Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=otterparalys1s)
+
+### My most-liked repo
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=otterparalsy1s&repo=otterparalsy1s)
+
+![counter](https://enubn4q6gewo6mj.m.pipedream.net)
+
+### See ya later, folks! 👋
