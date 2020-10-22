@@ -8,7 +8,7 @@ I'm Alizain Saeed livin' in the old streets of Pakistan. I'm a coder you codes f
 - ⚡ Fun fact: I just filled the blanks of the README.md!
 
 ### Current Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=otterparalys1s)
+![Github stats](https://github-readme-stats.vercel.app/api?username=otterparalsy1s)
 
 ### My most-liked repo
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=otterparalsy1s&repo=otterparalsy1s)
