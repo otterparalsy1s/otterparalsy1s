@@ -8,7 +8,7 @@ I'm Alizain Saeed livin' in the old streets of Pakistan. I'm a coder who codes f
 - ⚡ Fun fact: I just filled the blanks of the README.md!
 
 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](otterparalys1s@protonmail.ch)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](mailto:otterparalys1s@protonmail.ch)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kaggle](https://www.kaggle.com/otterftw)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=otterparalsy1s)
