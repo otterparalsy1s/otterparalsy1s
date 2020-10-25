@@ -7,12 +7,8 @@ I'm Alizain Saeed livin' in the old streets of Pakistan. I'm a coder who codes f
 - 👯 I’m looking to collaborate on Kaggle
 - ⚡ Fun fact: I just filled the blanks of the README.md!
 
-### Current Github Stats
+📫 How to reach me: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](otterparalys1s@protonmail.ch)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kaggle](https://www.kaggle.com/otterftw)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=otterparalsy1s)
-
-### My most-liked repo
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=otterparalsy1s&repo=otterparalsy1s)
-
-![counter](https://enubn4q6gewo6mj.m.pipedream.net)
-
-### See ya later, folks! 👋
